@@ -14,3 +14,4 @@ vim.opt.softtabstop = 2
 
 --Remaps
 vim.keymap.set("n","<F8>",":TagbarToggle<Cr>")
+vim.keymap.set("n","<F9>",":vsp<Cr>:ter<Cr>")
