@@ -6,6 +6,7 @@ syntax on
 :set relativenumber
 :set sw=2 ts=2
 :set softtabstop=2
+:set expandtab
 :set autoindent
 :set smartindent
 :set mouse=a
