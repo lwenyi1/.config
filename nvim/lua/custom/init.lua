@@ -11,6 +11,7 @@ vim.opt.ruler = true
 vim.opt.tabstop = 2
 vim.opt.shiftwidth = 2
 vim.opt.softtabstop = 2
+vim.opt.expandtab = true
 
 --Remaps
 vim.keymap.set("n","<F8>",":TagbarToggle<Cr>")
